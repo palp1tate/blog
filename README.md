@@ -1,6 +1,8 @@
 # blog
 a blog system with much powerful function implemented by flask
 
+视频来源：https://www.bilibili.com/video/BV17z4y1X7UZ/?spm_id_from=333.999.0.0&vd_source=84fc27804252448ba51ef3b6abfd5d36
+
 下载：
 ```bash
 git clone https://github.com/uestc-wxy/blog.git
