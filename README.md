@@ -7,7 +7,7 @@ a blog system with much powerful function implemented by flask
 
 下载：
 ```bash
-git clone https://github.com/uestc-wxy/blog.git
+git clone https://github.com/palp1tate/blog.git
 ```
 
 配置`config.py`
@@ -37,17 +37,17 @@ flask db upgrade
 
 部分页面如下：
 
-![image](https://github.com/uestc-wxy/blog/assets/120303802/84e3a54f-2d52-4541-b83b-cac04f4788b0)
+![image](https://github.com/palp1tate/blog/assets/120303802/84e3a54f-2d52-4541-b83b-cac04f4788b0)
 
-![image](https://github.com/uestc-wxy/blog/assets/120303802/225f57d8-fd82-4992-8812-b20297db30b8)
+![image](https://github.com/palp1tate/blog/assets/120303802/225f57d8-fd82-4992-8812-b20297db30b8)
 
-![image](https://github.com/uestc-wxy/blog/assets/120303802/b22767c7-c7ea-493a-b219-472eea2e78ce)
+![image](https://github.com/palp1tate/blog/assets/120303802/b22767c7-c7ea-493a-b219-472eea2e78ce)
 
-![image](https://github.com/uestc-wxy/blog/assets/120303802/f91010c2-fc7c-4c06-815d-e11c92277287)
+![image](https://github.com/palp1tate/blog/assets/120303802/f91010c2-fc7c-4c06-815d-e11c92277287)
 
-![image](https://github.com/uestc-wxy/blog/assets/120303802/cf649c43-a841-4989-92b9-05f5e839832b)
+![image](https://github.com/palp1tate/blog/assets/120303802/cf649c43-a841-4989-92b9-05f5e839832b)
 
-![image](https://github.com/uestc-wxy/blog/assets/120303802/88d10e52-a813-43ab-b0d0-4c946212e6e0)
+![image](https://github.com/palp1tate/blog/assets/120303802/88d10e52-a813-43ab-b0d0-4c946212e6e0)
 
 
 
